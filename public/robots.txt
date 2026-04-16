@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://teamflowpm.com/sitemap.xml
+
+# Crawl-delay: 10
+# TeamFlow PM - Project Management SaaS
